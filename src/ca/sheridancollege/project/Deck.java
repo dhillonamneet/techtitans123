@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author jassk
+ * @author dhill
  */
 import java.util.ArrayList;
 import java.util.Collections;

@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author jassk
+ * @author dhill
  */
 /**
  * Represents a user in the authentication system.
